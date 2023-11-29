@@ -1,13 +1,13 @@
 import Image from 'next/image'
 import styles from './page.module.css'
-import Card from "stysr-storybook-react-components";
+//import Card from "stysr-storybook-react-components";
 
 export default function Home() {
   return (
     <main className={styles.main}>
-      <div>
+      {/* <div>
         <Card />
-      </div>
+      </div> */}
 
       <div className={styles.description}>
         <p>
